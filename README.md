@@ -38,7 +38,7 @@
 <h4>Graphics designer</h4>
 <h4>Fullstack developer</h4>
 <h4>Behind the Screen: The Funny Loner Unplugged!</h4>
-<h4>whatsapp me here❄️❄️:https://wa.link/0790502670</h4>
+<h4>whatsapp me here❄️❄️:https://wa.link/fhjqx4</h4>
 
 
 
