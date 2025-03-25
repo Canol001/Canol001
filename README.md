@@ -1,6 +1,6 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
-<h1 align="center"><b>CANOL OKOTH</b>
+<h1 align="center"><b>O. CANOL OKOTH</b>
  <img src="https://komarev.com/ghpvc/?username=canolx&style=flat-square&color=green" alt=""/>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
