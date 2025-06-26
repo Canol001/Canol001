@@ -22,21 +22,21 @@
 
 ## 🧰 Skills & Tools
 
-<p align="center">
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=for-the-badge)
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=for-the-badge" />
+</div>
 
 ---
 
