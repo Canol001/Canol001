@@ -42,13 +42,52 @@
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Canol001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canol001&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Canol001&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Canol001&theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Canol001&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 </p>
+
+<!-- GitHub Stats + Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Canol001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canol001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Canol001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Canol001&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Canol001/Canol001/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<!-- GitHub Metrics Dashboard -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Canol001/Canol001/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<!-- Optional: WakaTime Weekly Code Stats -->
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+</p> 
+-->
+
+<!-- Repo-specific Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Canol001/secure-vault?style=flat-square" alt="Stars Badge" />
+  <img src="https://img.shields.io/github/forks/Canol001/secure-vault?style=flat-square" alt="Forks Badge" />
+  <img src="https://img.shields.io/github/issues/Canol001/secure-vault?style=flat-square" alt="Issues Badge" />
+  <img src="https://img.shields.io/github/issues-pr/Canol001/secure-vault?style=flat-square" alt="PRs Badge" />
+</p>
+
 
 ---
 
