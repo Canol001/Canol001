@@ -1,50 +1,84 @@
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a>
-<h1 align="center"><b>O. CANOL OKOTH</b>
- <img src="https://komarev.com/ghpvc/?username=canolx&style=flat-square&color=green" alt=""/>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a>
-  <a  align="center"><img  width="25%"src='https://avatars.githubusercontent.com/u/129984040?v=4'/></a>
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=green&size=27&center=true&vCenter=true&width=600&height=100&lines=THE+OFFICIAL+CANOL+OKOTH+ACCOUNT...">
-</a>
-
- 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Canol001&theme=highcontrast&&show_icons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Canol001&langs_count=5&theme=highcontrast)]()
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Canol001&theme=dark&background=000000)](https://git.io/streak-stats)
-
-</p>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a>
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<!-- HEADER ANIMATION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Coding animation" width="200"/>
 </div>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center">The greatest programmer alive</p>
-<h4>Networking personel</h4>
-<h4>Graphics designer</h4>
-<h4>Fullstack developer</h4>
-<h4>Behind the Screen: The Funny Loner Unplugged!</h4>
-<h4>whatsapp me here❄️❄️:https://wa.link/fhjqx4</h4>
+<h1 align="center">Hi, I’m **Venom** 👋</h1>
+<p align="center">3rd-year nIT student @ Maseno Univ | Passionate dev, security enthusiast & lifelong learner</p>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
+🔁 Updated dynamically via [github-readme-stats] widgets :contentReference[oaicite:1]{index=1}
 
+---
 
- 
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a>
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+## ⚙️ Tech & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LNKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST: START -->
+<!-- BLOG-POST-LIST: END -->
+
+(Uses a GitHub Action to auto-fetch your RSS feed and keep this section fresh.)
+
+---
+
+## 📈 Real-time Site & Profile Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Unique Visitors"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+> "Traditional principles, forward thinking. No fluff, all grind."  
+
+A hardworking Gen‑Z coder blending respect for how things were done with innovation for how they should be. Currently building a 🔐 Secure Vault system in Flask with OTP, encryption, responsive UI, and full audit logging.
+
+---
+
+<p align="center">Thank you for stopping by — let’s build something epic! 💻✨</p>
