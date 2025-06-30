@@ -1,6 +1,6 @@
 <!-- Animated SVG header (typewriter effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hey!+I'm+Venom+aka+Canol001+%F0%9F%91%BD;3rd+Year+IT+Student+%7C+Maseno+University;Builder+of+Bots,+Dashboards+%26+Billing+Systems;PHP+%7C+MySQL+%7C+JavaScript+%7C+Node.js+%7C+Flask;Welcome+to+My+Cafeteria+Code+World+%F0%9F%8D%95%F0%9F%A5%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hey!+I'm+Venom+aka+Canol001+%F0%9F%91%BD;3rd+Year+IT+Student+%7C+Maseno+University;Builder+of+Bots,+Dashboards+%26+Billing+Systems;PHP+%7C+MySQL+%7C+JavaScript+%7C+Node.js+%7C+Flask;Welcome+to+My+'own'+Code+World+%F0%9F%8D%95%F0%9F%A5%97" alt="Typing SVG" />
 </p>
 
 
