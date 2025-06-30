@@ -1,6 +1,5 @@
-<!-- Animated SVG header (typewriter effect) -->
 <p align="center">
-  <img src="header.svg" alt="Animated Header" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&width=435&lines=Welcome+to+the+Cafeteria+System!;Built+with+PHP+%2B+MySQL;Enjoy+your+meal+%F0%9F%8D%95%F0%9F%8D%97" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm **Canol001**</h1>
