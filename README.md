@@ -67,8 +67,9 @@
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
-  <img src="https://github.com/Canol001/Canol001/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Canol001/Canol001/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 <!-- GitHub Metrics Dashboard -->
 <p align="center">
