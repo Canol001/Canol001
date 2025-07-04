@@ -7,7 +7,7 @@
 
 <h1 align="center">👋 Hey there, I'm **Canol001**</h1>
 <p align="center">
-  🧠 Full-stack Dev | 🎓 nIT @ Maseno University | 🇰🇪 Kisumu, Kenya  
+  🧠 Full-stack Dev | 🎓 IT @ Maseno University | 🇰🇪 Kisumu, Kenya  
   <br>
   Blending tradition with innovation—vault security by day, code poetry by night.
 </p>
