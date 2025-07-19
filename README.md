@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics.
 
 <!-- GitHub Trophies -->
 <p align="center">
