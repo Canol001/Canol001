@@ -16,7 +16,7 @@
 
 ## 🚀 Currently Working On
 - 🔐 **Secure Vault System**: OTP + secret-code auth, encryption, audit logs (Flask/SQLite/Tailwind)   
-- 📱 **Flutter App**: Learning, file manager, rental & booking tools  
+- 📱 **Flutter App**: Learning, shopping, rental & booking tools  
 - 🌐 **ISP Billing Portal**: MikroTik API integration using PHP, Laravel and Radius server.
 
 ---
