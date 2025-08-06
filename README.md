@@ -9,7 +9,7 @@
 <p align="center">
   🧠 Full-stack Dev | 🎓 IT @ Maseno University | 🇰🇪 Kisumu, Kenya  
   <br>
-  Blending tradition with innovation—vault security by day, code poetry by night.
+  Blending tradition with innovation—vault security by day, code poetry every night.
 </p>
 
 ---
