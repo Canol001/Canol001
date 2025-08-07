@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">👋 Hey there, I'm **Canol001**</h1>
+<h1 align="center">👋 Hey there, I'm Canol</h1>
 <p align="center">
   🧠 Full-stack Dev | 🎓 IT @ Maseno University | 🇰🇪 Kisumu, Kenya  
   <br>
