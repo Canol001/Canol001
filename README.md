@@ -75,7 +75,7 @@ plus 31 more...
   <img src="https://raw.githubusercontent.com/Canol001/Canol001/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- Optional: WakaTime Weekly Code Stats -->
+<!-- Optional: WakaTime Weekly Code Stats. -->
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
