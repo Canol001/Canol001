@@ -13,7 +13,6 @@
 </p>
 
 ---
-j
 # 🚀 Current Projects
 
 ### 🔐 Secure Vault System
