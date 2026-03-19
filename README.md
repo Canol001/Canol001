@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Canol</h1>
 
 <p align="center">
-  💻 Full-Stack Developer <br>
+  💻 Full-Stack Developer<br>
   🎓 BSc. Information Technology — Maseno University <br>
   🇰🇪 Kisumu, Kenya <br><br>
   Building secure systems, scalable apps, and useful digital tools.
