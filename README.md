@@ -137,7 +137,7 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 ---
 
-# 🌐 Contact & Online Presence
+# 🌐 Contact & My Online Presence
 
 <p align="center">
 
@@ -145,7 +145,7 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 <br><br>
 
-<a href="mailto:canolokoth@example.com">
+<a href="mailto:canolowana6@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
