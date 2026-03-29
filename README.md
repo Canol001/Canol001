@@ -15,19 +15,6 @@
 ---
 ## 🚀 Current Projects.
 
-### 🔐 Secure Vault System
-A secure credential management platform with:
-
-- OTP authentication
-- Secret-code verification
-- AES encryption
-- Audit logging
-- CLI + Web interface
-
-Tech stack: **Flask • SQLite • TailwindCSS**
-
----
-
 ### 📱 Flutter Multi-Service App
 A mobile application combining:
 
