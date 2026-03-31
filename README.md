@@ -9,7 +9,7 @@
   💻 Full-Stack Developer<br>
   🎓 BSc. Information Technology — Maseno University <br>
   🇰🇪 Kisumu, Kenya <br><br>
-  Building secure systems, scalable apps, and useful digital tools.
+  Building secure systems, scalable apps, and useful digital systems.
 </p>
 
 ---
