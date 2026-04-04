@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=4000&pause=1000&color=00FFB9&center=true&vCenter=true&width=700&lines=Hey!+I'm+Canol+Okoth+aka+Venom+%F0%9F%91%BD;Final+Year+IT+Student+%7C+Maseno+University;Builder+of+Systems,+Apps+%26+Digital+Solutions;PHP+%7C+JS+%7C+Python+%7C+Node.js+%7C+Flutter;Welcome+to+my+Code+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Canol</h1>
+<h1 align="center">👋 Hi, I'm Canol okoth</h1>
 
 <p align="center">
   💻 Full-Stack Developer<br>
