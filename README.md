@@ -5,6 +5,9 @@
 
 <h1 align="center">👋 Hi, I'm Canol okoth</h1>
 
+<img width="952" height="392" alt="image" src="https://github.com/user-attachments/assets/17643eb7-0e0f-41c8-8340-fd340cc5d43a" />
+
+
 <p align="center">
   💻 Full-Stack Developer<br>
   🎓 BSc. Information Technology — Maseno University <br>
