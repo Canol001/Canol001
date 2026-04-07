@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Canol okoth</h1>
+<h1 align="center">👋 Hi, I'm Canol</h1>
 
 <img width="952" height="392" alt="image" src="https://github.com/user-attachments/assets/17643eb7-0e0f-41c8-8340-fd340cc5d43a" />
 
