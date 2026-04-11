@@ -33,7 +33,7 @@ A full billing management platform for ISPs featuring:
 - User subscription management
 - Automated billing and bandwidth control
 
-Tech stack: **PHP • Laravel • MySQL • MikroTik API**
+Tech stack: **PHP • Laravel • MySQL • Freeradius • MikroTik API**
 
 ---
 
