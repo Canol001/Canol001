@@ -28,10 +28,10 @@ Tech stack: **Flutter • Firebase**
 ### 🌐 ISP Billing Portal
 A full billing management platform for ISPs featuring:
 
-- MikroTik API integration
-- Radius server authentication
-- User subscription management
-- Automated billing and bandwidth control
+- MikroTik API integration.
+- Radius server authentication.
+- User subscription management.
+- Automated billing and bandwidth control.
 
 Tech stack: **PHP • Laravel • MySQL • Freeradius • MikroTik API**
 
