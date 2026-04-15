@@ -122,7 +122,7 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 ---
 
-# 🌐 Contact & My Online Presence
+# 🌐 ContacT
 
 <p align="center">
 
