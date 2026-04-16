@@ -11,7 +11,7 @@
 </p>
 
 ---
-## 🚀 Current Projects.
+## 🚀 Current Projects
 
 ### 📱 Flutter Multi-Service App
 A mobile application combining:
