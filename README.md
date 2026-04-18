@@ -176,7 +176,7 @@ https://github.com/Canol001/isp-billing-portal
 
 ---
 
-# ⚡ Fun Facts
+# ⚡ Fun Facts.
 
 - I automate the automators.
 - I talk to routers more than I talk to people.
