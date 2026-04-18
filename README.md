@@ -168,7 +168,7 @@ https://github.com/Canol001/restaurant-qr-menu
 
 ---
 
-## 🌍 ISP Billing Portal
+## 🌍 ISP Billing Portal.
 Billing and user management system for Internet Service Providers.
 
 Repository  
