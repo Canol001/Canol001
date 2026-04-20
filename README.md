@@ -136,15 +136,15 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/canol-okoth">
+<a href="https://linkedin.com/in/owano-canol">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://x.com/yourhandle">
+<a href="https://x.com/venom1_9">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://owano-canol.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?logo=internet-archive&logoColor=white&style=for-the-badge"/>
 </a>
 
