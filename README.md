@@ -124,7 +124,7 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 ---
 
-# 🌐 ContacT
+# 🌐 Contact
 
 <p align="center">
 
@@ -134,6 +134,10 @@ A terminal-based secure credential manager demonstrating authentication, encrypt
 
 <a href="mailto:canolowana6@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:canolowana6@gmail.com">
+<img src="https://img.shields.io/badge/Made in Kenya-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/owano-canol">
