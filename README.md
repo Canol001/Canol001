@@ -178,7 +178,7 @@ https://github.com/Canol001/restaurant-qr-menu
 Billing and user management system for Internet Service Providers.
 
 Repository  
-https://github.com/Canol001/isp-billing-portal
+https://github.com/Canol001/dhcpay
 
 ---
 
