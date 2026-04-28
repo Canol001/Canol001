@@ -17,7 +17,7 @@
 A mobile application combining:
 
 - Learning resources.
-- Shopping services.
+- Shopping services
 - Rental systems.
 - Booking platforms.
 
