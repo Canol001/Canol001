@@ -99,18 +99,6 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 
 ---
 
-# 🧪 Demo Example
-
-### Secure Vault CLI Flow
-
-<p align="center">
-  <img src="demo.svg" alt="Vault CLI Demo"/>
-</p>
-
-A terminal-based secure credential manager demonstrating authentication, encryption, and credential storage.
-
----
-
 # 🌐 Contact
 
 <p align="center">
