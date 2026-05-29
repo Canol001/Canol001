@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Canol</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=header&text=Canol%20Okoth&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Network%20Engineer&descAlignY=58&descSize=18" />
+
+</div>
 
 <img width="952" height="392" alt="image" src="https://github.com/user-attachments/assets/17643eb7-0e0f-41c8-8340-fd340cc5d43a" />
 
