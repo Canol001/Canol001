@@ -65,23 +65,6 @@ Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTi
 
 # 📊 GitHub Analytics
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Canol001&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Canol001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canol001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
