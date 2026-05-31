@@ -23,7 +23,7 @@ A mobile application combining:
 - Learning resources.
 - Shopping services.
 - Rental systems.
-- Booking platforms.
+- Booking platforms...
 
 Tech stack: **Flutter • Firebase**
 
