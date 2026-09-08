@@ -15,31 +15,6 @@
 </p>
 
 ---
-## 🚀 Current Projects
-
-### 📱 Flutter Multi-Service App
-A mobile application combining:
-
-- Learning resources.
-- Shopping services.
-- Rental systems.
-- Booking platforms...
-
-Tech stack: **Flutter • Firebase**
-
----
-
-### 🌐 ISP Billing Portal
-A full billing management platform for ISPs featuring:
-
-- MikroTik API integration.
-- Radius server authentication.
-- User subscription management.
-- Automated billing and bandwidth control.
-
-Tech stack: **PHP • Laravel • MySQL • Freeradius • Wireguard • MikroTik API**
-
----
 
 # 🧰 Skills & Technologies
 
