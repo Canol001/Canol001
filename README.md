@@ -106,40 +106,6 @@
 
 ---
 
-# 🏆 Featured Projects
-
-## 🔐 Secure Vault
-A secure credential manager with OTP login, encryption, and audit logs.
-
-Repository  
-https://github.com/Canol001/secure-vault
-
----
-
-## 🍣 Restaurant QR Menu
-A QR-based restaurant ordering system built with React and Firebase.
-
-Repository  
-https://github.com/Canol001/restaurant-qr-menu
-
----
-
-## 🌍 ISP Billing Portal.
-Billing and user management system for Internet Service Providers.
-
-Repository  
-https://github.com/Canol001/dhcpay
-
----
-
-# ⚡ Fun Facts.
-
-- I automate the automators.
-- I talk to routers more than I talk to people.
-- Coffee fuels most of my commits.
-
-> "Foundations hold history, innovation writes the future."
-
 ---
 
 <p align="center">
