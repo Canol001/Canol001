@@ -42,17 +42,17 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Canol001&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
 ### 📊 Contribution Activity
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Canol001&theme=github-dark&hide_border=true" />
-</p> -->
+</p>
 
 ---
 
