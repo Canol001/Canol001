@@ -40,7 +40,7 @@
 
 # 📊 GitHub Analytics
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streaks
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Canol001&theme=tokyonight&hide_border=true" />
