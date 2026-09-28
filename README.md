@@ -16,7 +16,7 @@
 
 ---
 
-# 🧰 Skills & Technologie(s)
+# 🧰 Skills & Technologies
 
 <p align="center">
 
